@@ -1,0 +1,1 @@
+4.Write a program which accepts two file name from user and copy the contents of an existing file into newly created file.
