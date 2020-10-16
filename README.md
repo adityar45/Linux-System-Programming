@@ -1,6 +1,10 @@
 # Linux-System-Programming
 Programs related to system programming
+//All inputs are through command line arguments
 # Basic File System Calls
+
+//open(),close(),read(),write()
+
 --Assignment 1
 1. Write a program which is used to add two numbers.
 2. Write a program which accept name from command line argument and display it on screen.
@@ -12,6 +16,8 @@ Programs related to system programming
 8. Write a program which accept file name from user and read whole file. 
 9. Write a program which accept filename and string from user and write that string into file
 
+//File Info(stat)
+
 --Assignment 2
 1. Write a program which accept file name from user and open that file. 
 2. Write a program which accept file name and mode from user and then open that file in specified mode. 
@@ -20,6 +26,8 @@ Programs related to system programming
 5. Write a program which accept file name and number of bytes from user and read that number of bytes from file. 
 6. Write a program which accept file name from user and read whole file. 
 7. Write a program which accept file name from user and write string in that file. 
+
+//directory(dirent),opendir(),readdir(),closedir()
 
 --Assignment 3
 1. Write a program which accept directory name from user and print all file names from that directory. 
